@@ -3,7 +3,7 @@ https://github.com/miguelgrinberg/flasky
 
 Activity 1.1 & 1.2
 ![alt text](image.png)
-
+![alt text](image-1.png)
 
 Flasky
 ======
