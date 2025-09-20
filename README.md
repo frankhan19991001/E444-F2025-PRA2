@@ -1,6 +1,10 @@
 My name is Frank Han. this repo is a clone of
 https://github.com/miguelgrinberg/flasky
 
+Activity 1.1 & 1.2
+![alt text](image.png)
+
+
 Flasky
 ======
 
