@@ -5,6 +5,9 @@ https://github.com/miguelgrinberg/flasky
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+# Activity 1.3 & 1.4
+![alt text](image-2.png)
+
 Flasky
 ======
 
