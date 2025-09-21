@@ -10,6 +10,15 @@ https://github.com/miguelgrinberg/flasky
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
+# Activity 2.1 & 2.2
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+# Activity 2.3 & 2.4
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+
 Flasky
 ======
 
