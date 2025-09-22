@@ -16,6 +16,8 @@ https://github.com/miguelgrinberg/flasky
 
 # Activity 2.3 & 2.4
 ![alt text](image-8.png)
+![alt text](image-12.png)
+![alt text](image-11.png)
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 
